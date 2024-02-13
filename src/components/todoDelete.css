@@ -1,0 +1,95 @@
+/* .todo-form {
+  font-family: Arial, sans-serif;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+} */
+
+/* .homepage{
+  display: flex;
+  width: 50vw;
+  height: 30vw;
+  padding: 15px 5px 5px;
+  margin-bottom: 300px;
+  justify-content: center;
+  align-items: baseline;
+  background: #f0f2f5;
+  border-radius: 20px;
+  position: relative;
+  box-shadow: 0 0 15px 5px grey;
+  margin-bottom: 100px;
+} */
+
+.todo {
+  width: 600px;
+  background: white;
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 5rem;
+  align-items: center;
+  text-align: center;
+  /* margin-bottom: 300px;
+    margin-right: 600px; */
+}
+
+.todo > input {
+  border-radius: 8px;
+  border: 2px solid #dddfe2;
+  outline: none;
+  color: #1d2129;
+  margin: 0.5rem 0;
+  padding: 0.5rem 0.75rem;
+  width: 85%;
+  font-size: 1rem;
+}
+
+.todo > .button {
+  background: blue;
+  border: 1px solid blue;
+  color: #fff;
+  font-size: 1.25rem;
+  padding: 0.5rem;
+  margin: 00.5rem;
+  margin-left: 20px;
+  border-radius: 8px;
+  outline: none;
+  cursor: pointer;
+}
